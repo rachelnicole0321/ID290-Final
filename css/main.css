@@ -1,0 +1,12 @@
+#map{
+	height: 400px;
+	width: 100%;
+}
+body{
+	background-color: #3dd6d0;
+}
+
+#title{
+	text-align: center;
+	font-family: monospace;
+}
